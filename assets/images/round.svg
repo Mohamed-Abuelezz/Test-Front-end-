@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2443" height="522" viewBox="0 0 2443 522">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b017d"/>
+      <stop offset="1" stop-color="#e17c9a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2005" data-name="Group 2005" transform="translate(262 -3973)">
+    <g id="Group_2002" data-name="Group 2002" transform="translate(1140 1123)">
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="261" cy="261" r="261" transform="translate(519 2850)" opacity="0.03" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_60" data-name="Ellipse 60" cx="201" cy="201" r="201" transform="translate(579 2910)" opacity="0.03" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_61" data-name="Ellipse 61" cx="151" cy="151" r="151" transform="translate(629 2960)" opacity="0.03" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_62" data-name="Ellipse 62" cx="110.5" cy="110.5" r="110.5" transform="translate(669.997 3000.997)" opacity="0.03" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_2004" data-name="Group 2004" transform="translate(-781 1123)">
+      <circle id="Ellipse_59-2" data-name="Ellipse 59" cx="261" cy="261" r="261" transform="translate(519 2850)" opacity="0.03" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_60-2" data-name="Ellipse 60" cx="201" cy="201" r="201" transform="translate(579 2910)" opacity="0.03" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_61-2" data-name="Ellipse 61" cx="151" cy="151" r="151" transform="translate(629 2960)" opacity="0.03" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_62-2" data-name="Ellipse 62" cx="110.5" cy="110.5" r="110.5" transform="translate(669.997 3000.997)" opacity="0.03" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
